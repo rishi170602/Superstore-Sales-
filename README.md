@@ -25,10 +25,6 @@ Product Analysis
 - Identify top-selling products and categories.
 - Analyze product performance over time.
 
-Time Series Analysis
-- Examine sales trends over different periods (daily, monthly, yearly).
-- Identify seasonality or patterns in sales data.
-
 Visualization
 - Create visualizations (charts, graphs, dashboards) to present key findings effectively.
 
